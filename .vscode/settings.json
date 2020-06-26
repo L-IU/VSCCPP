@@ -12,6 +12,6 @@
     "terminal.integrated.confirmOnExit": true,
     "terminal.integrated.cursorBlinking": true,
     "explorer.openEditors.visible": 5,
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.tree.indent": 16,
     "C_Cpp.clang_format_style": "{ BasedOnStyle: WebKit, IndentWidth: 8, AlignTrailingComments: true, NamespaceIndentation: All,BreakBeforeBraces: Custom,BraceWrapping: { AfterUnion: true,AfterEnum: true,AfterStruct: true,AfterClass: true,AfterFunction: true,AfterNamespace: true,AfterExternBlock: true,AfterControlStatement: false,BeforeCatch: false,BeforeElse: false } }",
 }
